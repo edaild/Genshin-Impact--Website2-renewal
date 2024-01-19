@@ -20,13 +20,16 @@ Genshin-Impact-Portfolio2-renewal
 ![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/05c33b7f-da90-4e3e-8a09-11750fae6552)
 
 ### main page
-![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/bb5ccb3b-d3de-4f82-ad28-367f79c71cb9)
+![image](https://github.com/edaild/Genshin-Impact-Portfolio2-renewal/assets/109999749/6b6fdd48-1b11-47cc-abda-13291880ef3a)
+
 
 ### main menu
-![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/a59d1e4a-a432-4460-9975-fc92cee26e6d)
+![image](https://github.com/edaild/Genshin-Impact-Portfolio2-renewal/assets/109999749/530db699-1464-4fe7-afe2-2d97b916a83b)
+
 
 ### bodywrop
-![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/84f209b8-463e-434c-9da9-b248ac825282)
+![image](https://github.com/edaild/Genshin-Impact-Portfolio2-renewal/assets/109999749/158659b6-6939-4554-a9db-233128b5e88a)
+
 
 ### content
 
