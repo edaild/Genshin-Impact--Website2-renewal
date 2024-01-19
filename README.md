@@ -34,11 +34,8 @@ Photofolio renewed from Genshin-Impact-Portfolio2/Genshin-Impact-Portfolio2을 �
 <P>After changing to a warmer image, functions were added to each menu. The actual website supports downloading, but this portfolio will take you to the Genshin Impact official website.<br>
 보다 따뜻한 이미지로 변경 후 메뉴마다 기능을 추가 했습니다. 실제 웹사이트에서는 다운로드를 지원하지만 본 포토폴리오는 원신 공식 웹사이트로 이동합니다.
  </P>
+
 ### content
-
-
-
-
 
 
 
