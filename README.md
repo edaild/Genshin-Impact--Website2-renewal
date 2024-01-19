@@ -1,8 +1,7 @@
 # Genshin-Impact-Portfolio2-renewal
 Genshin-Impact-Portfolio2-renewal 
 
-# Genshin-Impact-Portfolio2
-40% copy of Genshin Impact website and 60% self-conceived website portfolio / 원신 웹사이트를 40%는 따라 만들고 60%는 직접 구상해서 만든 웹사이트 포토폴리오<br>
+Photofolio renewed from Genshin-Impact-Portfolio2/Genshin-Impact-Portfolio2을 리뉴얼한 포토폴리오<br>
 <h3>caution / 주의 사항</h3>
 <p> In this portfolio, the background music does not play automatically in the Chrome environment / 본 포트폴리오는 Chrome 환경에서는 배경음악이 자동 재생되지 않습니다.</p>
 <P> When executing, please run index.html first / 실행 시 index·html을 가장 먼저 실행해 주세요.</P>
@@ -24,13 +23,17 @@ Genshin-Impact-Portfolio2-renewal
 
 
 ### main menu
+![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/a59d1e4a-a432-4460-9975-fc92cee26e6d)
 ![image](https://github.com/edaild/Genshin-Impact-Portfolio2-renewal/assets/109999749/530db699-1464-4fe7-afe2-2d97b916a83b)
+<p>The existing website Main Menu has reduced transparency and added functions to each menu<br>기존 웹사이트 Main Menu는 보다 투명도를 줄이고 메뉴마다 기능을 추가했습니다.</p>
 
 
 ### bodywrop
+![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/84f209b8-463e-434c-9da9-b248ac825282)
 ![image](https://github.com/edaild/Genshin-Impact-Portfolio2-renewal/assets/109999749/158659b6-6939-4554-a9db-233128b5e88a)
-
-
+<P>After changing to a warmer image, functions were added to each menu. The actual website supports downloading, but this portfolio will take you to the Genshin Impact official website.<br>
+보다 따뜻한 이미지로 변경 후 메뉴마다 기능을 추가 했습니다. 실제 웹사이트에서는 다운로드를 지원하지만 본 포토폴리오는 원신 공식 웹사이트로 이동합니다.
+ </P>
 ### content
 
 
