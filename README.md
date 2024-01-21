@@ -35,7 +35,7 @@ Photofolio renewed from Genshin-Impact-Portfolio2/Genshin-Impact-Portfolio2을 �
  </P>
 
 ### content
-
+![image](https://github.com/edaild/Genshin-Impact-Portfolio2-renewal/assets/109999749/fcc1d1ac-7d14-4573-b313-5efa0d4d7c8c)
 ![image](https://github.com/edaild/Genshin-Impact-Portfolio2-renewal/assets/109999749/44970755-b7b7-4f1a-adb8-5b76b80d1640)
 <p>기존 웹사이트 에서는 메뉴만 지원 했지만 이미지 슬라이드를 추가했습니다.</p>
 
