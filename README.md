@@ -40,11 +40,3 @@ Photofolio renewed from Genshin-Impact-Portfolio2/Genshin-Impact-Portfolio2을 �
 <p>기존 웹사이트 에서는 메뉴만 지원 했지만 이미지 슬라이드를 추가했습니다.</p>
 
 
-### footer
-
-
-### login
-
-
-### join the membership
-
