@@ -23,7 +23,7 @@ Photofolio renewed from Genshin-Impact-Portfolio2/Genshin-Impact-Portfolio2을 �
 ### main menu
 ![image](https://github.com/edaild/Genshin-Impact-Portfolio2/assets/109999749/a59d1e4a-a432-4460-9975-fc92cee26e6d)
 ![image](https://github.com/edaild/Genshin-Impact-Portfolio2-renewal/assets/109999749/be2c0d1c-5640-4574-9b34-000a8a82e244)
-<p>The existing website Main Menu has reduced transparency and added functions to each menu<br>기존 웹사이트 Main Menu보다 투명도를 줄이고 기능을 추가했습니다.</p>
+<p>Transparency has been reduced and features have been added compared to the existing website Main Menu.<br>기존 웹사이트 Main Menu보다 투명도를 줄이고 기능을 추가했습니다.</p>
 
 
 ### bodywrop
