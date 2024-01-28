@@ -1,0 +1,375 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    list-style: none;
+    font-weight: "맑은 고딕";
+    color: #ffffff;
+}
+
+html,
+body {
+    min-width: 1200px;
+    background-image: url(/images/원신.mp4);
+    font-size: 15px;
+}
+
+a {
+    text-decoration: none;
+    display: block;
+}
+
+.bg-video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 1000px;
+    width: 100%;
+    z-index: -1;
+}
+
+.bg-video__content {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+header {
+    width: 100%;
+    height: 80px;
+    background-color: rgba(65, 63, 63, 0.9);
+    
+}
+
+.wrop {
+    width: 1800px;
+}
+
+.audio {
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 120px;
+
+}
+
+audio {
+    margin-top: 50px;
+    margin-left: -80px;
+
+}
+
+.logo {
+    width: 150px;
+    height: 80px;
+    float: right;
+    float: left;
+
+    margin-left: 80px;
+}
+
+.menu {
+    width: 1000px;
+    height: 80px;
+    margin: 0 auto;
+}
+
+.navi1 {
+    margin-right: -400px;
+
+}
+
+.navi1>li {
+    float: left;
+    margin-top: 30px;
+}
+
+.navi1>li>a {
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.navi1>li>a:hover {
+    font-weight: bold;
+
+}
+
+.submenu {
+    width: 100px;
+    height: 250px;
+    margin-top: -10px;
+    display: none;
+}
+
+.submenu>li>a {
+    width: 100px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    font-size: 20px;
+    background-color: #333333;
+    display: block;
+}
+
+.submenu>li>a:hover {
+    background-color: #ffffff;
+    color: #333333;
+}
+
+.login {
+    display: block;
+    width: 100px;
+    height: 80px;
+    margin-right: -180px;
+    font-size: 18px;
+}
+
+.login:hover {
+    font-weight: bold;
+}
+
+.navi2 {
+    width: 200px;
+    height: 80px;
+    margin-right: -451px;
+}
+
+.navi2>li {
+    float: left;
+    margin-top: -80px;
+}
+
+.navi2>li>a {
+    width: 200px;
+    height: 80px;
+    line-height: 80px;
+    text-align: center;
+    color: #333333;
+    font-weight: bold;
+    background-color: yellow;
+    font-size: 25px;
+}
+
+.audio>li>a {
+    float: left;
+}
+
+.bodywrop {
+    width: 100%;
+    height: 600px;
+    background-color: blue;
+    margin-top: 890px;
+    background-image: url(./images/읽곱신.webp);
+    background-size: cover;
+}
+
+.font {
+    margin: 0 auto;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-top: 200px;
+    margin-left: 45%;
+    position: absolute;
+
+}
+
+.button {
+    margin-left: 2%;
+}
+
+.youtubebutton {
+    margin-top: 400px;
+    margin-left: 500px;
+    position: absolute;
+}
+
+
+.window>a>img {
+    margin-top: 400px;
+    margin-left: 700px;
+    position: absolute;
+}
+
+.pos>a>img {
+    margin-top: 400px;
+    margin-left: 950px;
+    position: absolute;
+}
+
+.google>a>img {
+    margin-top: 500px;
+    margin-left: 700px;
+    position: absolute;
+}
+
+.app>a>img {
+    margin-top: 500px;
+    margin-left: 950px;
+    position: absolute;
+}
+
+.content {
+    width: 100%;
+    height: 855px;
+    background-image: url(./images/몬드\ 바람이\ 시작되는\ 곳.webp);
+    background-size: cover;
+}
+
+.noticebox{
+    width: 900px;
+    height: 450px;
+    background-color:  #333333;
+    margin-top: -750px;
+}
+
+.noticeimg{
+    width: 450px;
+    height: 450px;
+    background-color: #ffffff;
+    float: left;
+}
+
+.imgslide{
+    width: 1450px;
+    height: 450px;
+
+}
+
+.imgslide>a{
+    display: block;
+    position: absolute;
+}
+
+.notice {
+    width: 400px;
+    height: 450px;
+    background-color:  rgba(65, 63, 63, 0.5);
+    position: relative;
+    margin-left: 1000px;
+    margin-top: -450px;
+    z-index: 2;
+}
+
+.noticemainmenu {
+    height: 80px;
+    border-bottom: solid 3px yellow;
+}
+
+.notice1>li {
+    font-size: 23px;
+    display: block;
+    margin-left: 20px;
+    margin-top: 30px;
+    float: left;
+   
+}
+
+.notice1>li:hover {
+    font-weight: bold;
+    
+    
+}
+.notice2>li {
+    font-size: 23px;
+    display: block;
+    margin-left: 20px;
+    margin-top: 30px;
+    float: left;
+ 
+}
+
+.notice2>li:hover {
+    font-weight: bold;
+  
+}
+
+.notice1sub {
+    width: 350px;
+    height: 300px;
+    margin-top: 30px;
+    background-color: rgba(255, 255, 255, 0.9);
+    font-size: 100px;
+   
+}
+.notice1sub>li>a{
+    width: 300px;
+    height: 50px;
+    font-size: 15px;
+    color: #333333;
+    margin-left: 30px;
+    float: left;
+    margin-top: 10px;
+}
+
+.notice1sub>li>a:hover{
+    font-weight: bold;
+    border-top: solid yellow;
+    border-bottom: solid yellow;
+}
+
+.notice1sub>li>a>span{
+    width: 100px;
+    height: 10px;
+    margin-top: 20px;
+    font-size: 10px;
+    color: #333333;
+    float: right;
+}
+
+.notice2sub {
+    width: 350px;
+    height: 300px;
+    margin-top: 30px;
+    background-color: rgba(255, 255, 255, 0.9);
+    font-size: 100px;
+    display: none;
+    z-index: -1;
+
+}
+.notice2sub>li>a{
+    width: 300px;
+    height: 50px;
+    font-size: 15px;
+    color: #333333;
+    margin-left: 30px;
+    float: left;
+    margin-top: 10px;
+}
+
+.notice2sub>li>a:hover{
+    font-weight: bold;
+    border-top: solid yellow;
+    border-bottom: solid yellow;
+}
+
+.notice2sub>li>a>span{
+    width: 100px;
+    height: 10px;
+    margin-top: 20px;
+    font-size: 10px;
+    color: #333333;
+    float: right;
+}
+
+footer {
+    width: 100%;
+    height: 200px;
+    background-color: #333333;
+}
+
+.wrop {
+    width: 100%;
+    height: 200px;
+}
+
+.copy {
+    font-weight: bold;
+    float: left;
+    font-size: 20px;
+    margin-top: 100px;
+    margin-left: 45%;
+    position: absolute;
+}

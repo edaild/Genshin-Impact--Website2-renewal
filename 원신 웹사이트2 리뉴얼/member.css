@@ -1,0 +1,65 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    list-style: none;
+    font-weight: "맑은 고딕";
+    color: #333333;
+}
+
+html,
+body {
+    min-width: 1200px;
+    background-image: url(./images/몬드\ 바람이\ 시작되는\ 곳.webp);
+    background-color: aqua;
+    background-size: cover;
+    font-size: 15px;
+}
+
+a {
+    text-decoration: none;
+    display: block;
+}
+
+.login-wrapper {
+    width: 400px;
+    height: 500px;
+    padding: 40px;
+    box-sizing: border-box;
+    float: left;
+    margin-top: 250px;
+    margin-left: 750px;
+    background-color: rgba(235, 231, 231, 0.5);
+}
+
+.login-wrapper>h2 {
+    font-size: 24px;
+    color: #81F7BE;
+    margin-bottom: 20px;
+}
+
+#login-form>input {
+    width: 100%;
+    height: 48px;
+    padding: 0 10px;
+    box-sizing: border-box;
+    margin-bottom: 16px;
+    border-radius: 6px;
+    background-color: #F8F8F8;
+}
+
+#login-form>input::placeholder {
+    color: #D2D2D2;
+}
+
+#login-form>input[type="submit"] {
+    color: #fff;
+    font-size: 16px;
+    background-color: #81F7BE;
+    margin-top: 20px;
+}
+
+#login-form>input>li>a {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
